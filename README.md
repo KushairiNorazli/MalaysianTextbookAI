@@ -1,2 +1,2 @@
-# MalaysianTextbookAI
-Edge AI model trained on Malaysian Textbook
+# AI courses
+Repository of AI model for my courses
